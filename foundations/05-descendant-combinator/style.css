@@ -7,14 +7,10 @@ div .text {
     text-align: center;
 }
 
-/* class selector
+/* other types of descendant combinators
 
 .container .text {} 
-
-*/
-
-/* type selector
-
-.div .p{} 
+div p {} 
+.container p
 
 */
