@@ -19,3 +19,11 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+/* I could have reused the class attributes if i knew that some selectors
+whether id or class had similar properties. Additionally, an element can 
+have both class/id selectors in it like so:
+
+<div id="four" class="adjust-font-size">  
+
+*/
