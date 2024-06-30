@@ -7,3 +7,14 @@ div .text {
     text-align: center;
 }
 
+/* class selector
+
+.container .text {} 
+
+*/
+
+/* type selector
+
+.div .p{} 
+
+*/
