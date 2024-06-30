@@ -4,9 +4,12 @@
     font-family: 'Helvetica', 'Times New Roman', 'sans serif'
 }
 
-.noclick {
+.click {
     background-color: black;
     color: white;
     font-weight: bold;
 }
 
+.noclick {
+    background-color: yellow;
+}
