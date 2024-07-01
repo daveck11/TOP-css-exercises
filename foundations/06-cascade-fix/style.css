@@ -21,6 +21,10 @@ body {
 /* The order in which you insert the css styles matter as their rules 
 should ideally be aligned with the order in which they appear in the .html file*/
 
+/* A beter explanation would be that because both .para and .small-para have the same specificify and we can use the rule order 
+which means that the selector that comes first has precedence */
+
+
 
 .button.confirm {
   background: green;
@@ -40,10 +44,11 @@ div.text {
   font-weight: 100;
 }
 
-div.child {
+div .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
 
 
+/* i could also do .text .child */
