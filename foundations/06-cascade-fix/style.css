@@ -22,7 +22,7 @@ body {
 should ideally be aligned with the order in which they appear in the .html file*/
 
 
-.confirm {
+.button.confirm {
   background: green;
   color: white;
   font-weight: bold;
