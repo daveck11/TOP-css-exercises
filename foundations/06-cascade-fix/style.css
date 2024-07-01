@@ -18,6 +18,9 @@ body {
 }
 
 
+/* The order in which you insert the css styles matter as their rules 
+should ideally be aligned with the order in which they appear in the .html file*/
+
 
 .confirm {
   background: green;
