@@ -13,6 +13,8 @@ body {
 .title {
   background: #e3f4ff;
   margin-bottom: 8px;
+  font-size: 16px;
+  padding:8px
 }
 
 .content {
@@ -22,7 +24,7 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  
+
 }
 
 button {
