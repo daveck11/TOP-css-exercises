@@ -26,3 +26,7 @@ body {
   padding: 32px;
   margin-left: 330px;
 }
+
+/* instead of doing the math use the auto feature
+
+margin-left: auto */
