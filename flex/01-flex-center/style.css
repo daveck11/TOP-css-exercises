@@ -17,3 +17,14 @@
   justify-content: center;
   margin:auto
 }
+
+/* Alternative solution - less clunk and takes up less code
+
+.container {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+*/
