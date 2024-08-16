@@ -11,6 +11,12 @@ img {
   font-size: 36px;
   font-weight: 900;
   display:flex;
+  justify-content: center;
+}
+
+.flexbox-2 {
+  display: flex;
+
 }
 
 /* do not edit this footer */
