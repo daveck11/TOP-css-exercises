@@ -35,3 +35,8 @@ display:flex;
 .footer {
 display:flex;
 }
+
+.content {
+  justify-content: center;
+  align-items: content;
+}
