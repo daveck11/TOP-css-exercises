@@ -29,14 +29,22 @@ input {
 
 .header {
 display:flex;
+flex-basis:100%;
+flex-wrap: wrap;
+align-items: flex-start;
 
 
 }
 .footer {
 display:flex;
+flex-basis:100%;
+flex-wrap: wrap;
+align-items: flex-end;
+
 }
 
 .content {
+  display:flex;
   justify-content: center;
-  align-items: content;
+  align-items: center;
 }
